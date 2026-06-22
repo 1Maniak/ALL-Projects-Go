@@ -42,7 +42,7 @@ func clearScreen() {
 // ПРИВЕТСТВЕННОЕ МЕНЮ
 func showMenu() {
 	fmt.Println("\n╔════════════════════════════╗")
-	fmt.Println("║     КОНВЕРТЕР ВАЛЮТ v1.1   ║")
+	fmt.Println("║   КОНВЕРТЕР ВАЛЮТ v0.1.1   ║")
 	fmt.Println("║         by Maniak          ║")
 	fmt.Println("╚════════════════════════════╝")
 	fmt.Println()
