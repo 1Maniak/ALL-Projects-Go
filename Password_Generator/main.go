@@ -23,7 +23,7 @@ func clearScreen() {
 
 func showMenu() {
 	fmt.Println("╔════════════════════════════╗")
-	fmt.Println("║   ГЕНЕРАТОР ПАРОЛЕЙ v1.0   ║")
+	fmt.Println("║  ГЕНЕРАТОР ПАРОЛЕЙ v0.1.0  ║")
 	fmt.Println("║         by Maniak          ║")
 	fmt.Println("╚════════════════════════════╝")
 	fmt.Println()
